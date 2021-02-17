@@ -14,4 +14,4 @@ CSS Bootstrap Intro
 * Show up to 2 columns on small mode, up to 4 columns on medium, and full columns on full-screen.
 
 
-![Bootstrap Beginning Layout]()
+![Bootstrap Beginning Layout](https://github.com/code-differently/css-bootstrap-intro/blob/main/nav-card-next-layout.jpg?raw=true)
