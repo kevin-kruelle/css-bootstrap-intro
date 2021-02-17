@@ -12,6 +12,7 @@ CSS Bootstrap Intro
 * Make the entire card a link
 * Add a dropshadow to the card. 
 * Show up to 2 columns on small mode, up to 4 columns on medium, and full columns on full-screen.
+* Add a page nav below the cards
 
 
 ![Bootstrap Beginning Layout](https://github.com/code-differently/css-bootstrap-intro/blob/main/nav-card-next-layout.jpg?raw=true)
