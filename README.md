@@ -3,7 +3,7 @@ CSS Bootstrap Intro
 
 
 ## Part 1
-* Configure a [Bootstrap site in Visual Studio Code] (https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode). Use this to create your own file.
+* Configure a [Bootstrap site in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode). Use this to create your own file.
 * Use as little of your own CSS when possible.  Rely upon Bootstrap's layout tools to do as much of the heavy lift as possible.
 * Add a nav bar
 * Add a card layout 
